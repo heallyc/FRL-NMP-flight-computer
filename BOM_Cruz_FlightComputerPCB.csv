@@ -1,0 +1,6 @@
+Reference,Qty,Value,Footprint,Datasheet
+A1,1,Arduino_Nano_v3.x,Module:Arduino_Nano,http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+J1,1,Conn_02x03,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,https://www.mouser.com/datasheet/3/85/1/htsw_th.pdf
+J2,1,Screw_Terminal_01x02,TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm,https://www.mouser.com/datasheet/3/507/5/phoenix_contact_1366241_en.pdf
+U1,1,MPU-6050,Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm,https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
+U2,1,BMP280,Package_LGA:Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering,https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf
